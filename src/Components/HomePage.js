@@ -4,7 +4,7 @@ import Filter from './Filter';
 
 function HomePage() {
 
-    const baseUrl = 'https://api.spaceXdata.com/v3/launches?limit=5'
+    const baseUrl = 'https://api.spaceXdata.com/v3/launches?limit=100'
     
     const [year, setYear] = useState('');
     // const [successfulLaunch, setSuccessfulLaunch] = true;
