@@ -1,0 +1,32 @@
+.Cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Card {
+  margin: 10px;
+  padding: 20px;
+  width: 180px;
+  height: fit-content;
+  background-color: white;
+  border-radius: 2%;
+  align-items: center;
+
+}
+
+h3{
+    color: rgb(58, 63, 122);
+   padding:10px
+}
+
+.rocket-logo{
+    height: 100px;
+    background-color: lightgray;
+    padding: 2px;   
+}
+
+.detail {
+    display: flex;
+    margin: 5px;
+}
