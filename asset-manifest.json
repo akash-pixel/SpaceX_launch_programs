@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SpaceX_launch_programs/static/css/main.f365d1bf.css",
+    "main.js": "/SpaceX_launch_programs/static/js/main.ca9dccea.js",
+    "index.html": "/SpaceX_launch_programs/index.html",
+    "main.f365d1bf.css.map": "/SpaceX_launch_programs/static/css/main.f365d1bf.css.map",
+    "main.ca9dccea.js.map": "/SpaceX_launch_programs/static/js/main.ca9dccea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f365d1bf.css",
+    "static/js/main.ca9dccea.js"
+  ]
+}
